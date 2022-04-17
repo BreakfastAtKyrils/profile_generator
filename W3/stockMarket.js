@@ -1,0 +1,3 @@
+const maxProfit = function(stockPrices) {
+
+}
